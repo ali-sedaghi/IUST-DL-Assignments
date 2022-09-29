@@ -5,7 +5,7 @@ My solutions to IUST's Deep Learning course, Fall 2021, [Dr. Mohammadi](https://
 ## Outline
 
 - A01
-- Fundamental terminologies (Objective function, Kernel methods)
+	- Fundamental terminologies (Objective function, Kernel methods)
 	- Vectors and Tensors
 	- Element-wise product vs Tensor product
 	- Data type, Rank and Shape of the CIFAR-10 dataset
