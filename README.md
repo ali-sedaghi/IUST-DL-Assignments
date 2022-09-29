@@ -1,5 +1,5 @@
 # IUST-DL-Assignments
-My solutions to IUST's Deep Learning course, Fall 2021, [Dr. Mohammadi](https://scholar.google.com/citations?user=H34y7Q0AAAAJ&hl=en)
+My solutions to IUST's Deep Learning assignments, Fall 2021, [Dr. Mohammadi](https://scholar.google.com/citations?user=H34y7Q0AAAAJ&hl=en)
 
 
 ## Outline
@@ -8,7 +8,7 @@ My solutions to IUST's Deep Learning course, Fall 2021, [Dr. Mohammadi](https://
 	- Fundamental terminologies (Objective function, Kernel methods)
 	- Vectors and Tensors
 	- Element-wise product vs Tensor product
-	- Data type, Rank and Shape of the CIFAR-10 dataset
+	- Data type, Rank, and Shape of the CIFAR-10 dataset
 	- Naive Bayes classifier on Iris dataset with NumPy
 - A02
 	- Linear regression
