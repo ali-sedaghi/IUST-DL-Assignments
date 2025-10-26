@@ -69,9 +69,7 @@ My solutions to IUST's Deep Learning assignments, Fall 2021, [Dr. Mohammadi](htt
 - A14
 	- Gensim library
 	- t-SNE
-	- Word embedding representation
-	- Word Analogy in NLP
-	- Triplet loss
-	- Siamese network on MNIST with Keras
-	- TP, TN, FP, FN
-	- Area Under the Curve (AUC)
+- Final Project
+	- Iranian Credit card and National card Deep Optical Character Recognition (OCR)
+    - Used Keras, Synthesized dataset using OpenCV
+	- [GitHub](https://github.com/ali-sedaghi/CardNumber-DeepOCR)
